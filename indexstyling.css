@@ -1,0 +1,23 @@
+body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; background-color:burlywood;}
+
+h1{text-shadow: 2px 2px #f1efef;}
+
+p{display: inline-block;}
+
+footer{font-style: italic; float: right;}
+
+ul{border: 3px dotted rgb(201, 182, 182); list-style-type:circle;}
+
+img{margin-left: 10px; border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 150px;}
+
+
+/* unvisited link */
+a:link {
+    color: darkgreen;
+  }
+  
+/* visited link */
+a:visited {
+    color: brown;
+  }
+
